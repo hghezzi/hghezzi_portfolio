@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Hans Ghezzi</title>
+    <link>https://hghezzi.github.io/hghezzi_portfolio/post/</link>
+    <description>Recent content in Research on Hans Ghezzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://hghezzi.github.io/hghezzi_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PUPpy</title>
+      <link>https://hghezzi.github.io/hghezzi_portfolio/post/puppy/</link>
+      <pubDate>Tue, 01 Aug 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://hghezzi.github.io/hghezzi_portfolio/post/puppy/</guid>
+      <description>PUPpy (Phylogenetically Unique Primers in python) is a fully automated pipeline to design taxon-specific primers for any defined microbial community.
+PUPpy can design both microbe-specific primers, which selectively amplify individual members of a community, and group-specific primers, which selectively amplify user-selected members.
+  PUPpy-designed primers can be used to quantify substrain-level absolute microbial counts with droplet digital PCR (ddPCR), providing more resolved and accurate quantification in gnotobiotic communities than 16S and shotgun sequencing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Portfolio on Hans Ghezzi</title>
+    <link>https://hghezzi.github.io/hghezzi_portfolio/</link>
+    <description>Recent content in Academic Portfolio on Hans Ghezzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://hghezzi.github.io/hghezzi_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PUPpy</title>
+      <link>https://hghezzi.github.io/hghezzi_portfolio/post/puppy/</link>
+      <pubDate>Tue, 01 Aug 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://hghezzi.github.io/hghezzi_portfolio/post/puppy/</guid>
+      <description>PUPpy (Phylogenetically Unique Primers in python) is a fully automated pipeline to design taxon-specific primers for any defined microbial community.
+PUPpy can design both microbe-specific primers, which selectively amplify individual members of a community, and group-specific primers, which selectively amplify user-selected members.
+  PUPpy-designed primers can be used to quantify substrain-level absolute microbial counts with droplet digital PCR (ddPCR), providing more resolved and accurate quantification in gnotobiotic communities than 16S and shotgun sequencing.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hghezzi.github.io/hghezzi_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hghezzi.github.io/hghezzi_portfolio/about/</guid>
+      <description>I am currently a PhD student in the Tropini Lab at the University of British Columbia (UBC), specializing in bioinformatics. My research leverages a combination of computational and microbiology assays to explore the human gut microbiome, specifically focusing on how gut environmental changes influence microbial communities. Outside of the lab you will find me playing football (the OG), cooking, and gardening. Feel free to message me if you have any questions!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hghezzi.github.io/hghezzi_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hghezzi.github.io/hghezzi_portfolio/contact/</guid>
+      <description>   Platform URL     Email: panzone@student.ubc.ca   LinkedIn: http://ca.linkedin.com/in/hansghezzi   GitHub: https://github.com/hghezzi   Tropini Lab: http://tropini.microbiology.ubc.ca/    </description>
+    </item>
+    
+  </channel>
+</rss>
